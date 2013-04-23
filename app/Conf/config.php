@@ -1,4 +1,9 @@
 <?php
+/**
+ * 系统主配置文件
+ * @author chenhao
+ * @since 2013-4-23
+ */
 $database = require (RUNTIME_PATH.'config.php');
 $sys_config =  include DATA_PATH.  'sys.config.php';
 if(empty($sys_config)){$sys_config=array();$sys_config['LAYOUT_ON']=1;}
