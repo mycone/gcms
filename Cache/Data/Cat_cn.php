@@ -1,0 +1,2 @@
+<?php
+return array ( 'company' => '2', 'hangye' => '3', 'zczy' => '5', 'zczyj' => '6', 'cjwt' => '21', 'meiti' => '10', 'zyjszs' => '22', 'info' => '11', 'jobs' => '12', 'message' => '24', 'sms' => '25', 'azjc' => '23', 'ftxl' => '37', 'download' => '26', 'maps' => '27', 'tmaill' => '29', '360buy' => '30', 'summary' => '32', 'Brand' => '33', 'Culture' => '34', 'Honor' => '35', 'Notepad' => '36', 'Product' => '4', 'news' => '1', 'Service' => '20', 'buys' => '28', 'about' => '8', 'About' => '31', ); ?>
